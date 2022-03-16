@@ -34,6 +34,7 @@ Flux 2: <br />
 3 <br />
 marius 1999 7.5 20 <br />
 alex 2001 8.1 54 <br />
-paul 2000 9 60 2 <br /><br />
+paul 2000 9 60 <br />
+2 <br />
 Dumitran 1981 Info 7 <br />
 Teius 1976 Mate 12
